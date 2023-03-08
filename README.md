@@ -1,6 +1,10 @@
 # Curso-de-BigData
 Se han subido los archivos de ejercicios del curso de Big DATA
-#Lunes
+# Lunes
 En el Lunes se utilizaron ejercicios de operadores y condicionales
   Copia de M6 - 01 - Python Notebook.ipynb
   Copia de M6 - 02 - Condicionales.ipynb
+# Martes
+Se han subido los archivos de bucles y los ejercicios realizados
+  Copia de M6 - 03 - Bucles v2.ipynb
+  Copia de M6 - SpaceX - 1 - Data Collection Api.ipynb
