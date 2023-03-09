@@ -8,3 +8,7 @@ En el Lunes se utilizaron ejercicios de operadores y condicionales
 Se han subido los archivos de bucles y los ejercicios realizados
   Copia de M6 - 03 - Bucles v2.ipynb
   Copia de M6 - SpaceX - 1 - Data Collection Api.ipynb
+# Miércoles
+Se han subido los archivos de Map, Filter, y funciones Lambda
+  Copia de M6 - 02 - Condicionales(1).ipynb
+  Copia de M6 - 03 - Bucles v2.ipynb
